@@ -1,0 +1,16 @@
+.spece-between{
+    margin-top: 50px !important;
+    padding-top: 50px !important;
+}
+
+.contact-img{
+    width: 50%;
+
+}
+.navbar-brand img{
+    width: 180px;
+}
+.lis-style-tag a{
+    text-decoration: none;
+    color: white;
+}
